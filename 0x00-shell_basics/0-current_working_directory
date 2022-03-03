@@ -1,3 +1,2 @@
-#!/bin/bash 
-
-echo "engineering"
+#!/bin/bash
+echo"engineering"
